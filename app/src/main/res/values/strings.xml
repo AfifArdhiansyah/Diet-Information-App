@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ditfo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Olahraga">Olahraga</string>
+    <string name="Makanan">Makanan</string>
+    <string name="MealPlan">Meal Plan</string>
+    <string name="ResepMakanan">Resep Makanan</string>
+</resources>
